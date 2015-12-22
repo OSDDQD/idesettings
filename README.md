@@ -1,0 +1,2 @@
+# idesettings
+Personal phpStorm Settings
