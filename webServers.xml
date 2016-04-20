@@ -1,7 +1,7 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="f198f3ca-c54c-4c22-8d6e-dba11402a6c1" name="api.local" url="http://api.local">
+      <webServer id="3fbd4f00-e3e4-4eb6-9d6c-14d0c9330394" name="http://apis.local" url="http://apis.local">
         <fileTransfer accessType="LOCAL" />
       </webServer>
     </option>
