@@ -4,6 +4,9 @@
       <webServer id="3fbd4f00-e3e4-4eb6-9d6c-14d0c9330394" name="http://apis.local" url="http://apis.local">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="b58d47c3-3e49-4d74-a056-cc6d43fe95f3" name="Laravel Api" url="http://lapi.local">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
