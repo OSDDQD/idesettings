@@ -10,6 +10,9 @@
       <webServer id="2a2b6dcc-bf05-4893-8542-68f7b093de1a" name="Laravel Test App" url="http://ppm.local">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="7901f626-0b80-49a1-a789-7e60ceaf855f" name="Statistics" url="http://stat.local">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
