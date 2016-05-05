@@ -7,6 +7,9 @@
       <webServer id="b58d47c3-3e49-4d74-a056-cc6d43fe95f3" name="Laravel Api" url="http://lapi.local">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="2a2b6dcc-bf05-4893-8542-68f7b093de1a" name="Laravel Test App" url="http://ppm.local">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
