@@ -13,6 +13,9 @@
       <webServer id="7901f626-0b80-49a1-a789-7e60ceaf855f" name="Statistics" url="http://stat.local">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="ffa73c7b-7765-48f4-8c91-e5ce13a6348b" name="SabCMS" url="http://sab.local">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
