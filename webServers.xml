@@ -19,6 +19,9 @@
       <webServer id="449bff13-e1e4-4309-b75f-29eff6aff62c" name="Neural Photo" url="http://neu.local">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="867cb0ad-fb43-47b8-bdc7-3e185b45b541" name="FormLocal" url="http://form.local">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
