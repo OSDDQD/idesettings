@@ -22,6 +22,9 @@
       <webServer id="867cb0ad-fb43-47b8-bdc7-3e185b45b541" name="FormLocal" url="http://form.local">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="6ea8d15c-d0d8-48c2-9a36-7130e22aa34d" name="Exit" url="http://exit.local">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
