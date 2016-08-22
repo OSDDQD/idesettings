@@ -25,6 +25,9 @@
       <webServer id="6ea8d15c-d0d8-48c2-9a36-7130e22aa34d" name="Exit" url="http://exit.local">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="66d5e5b2-5f2f-48a7-8c8e-f18694964612" name="vb4local" url="http://vb4.local">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
