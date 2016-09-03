@@ -13,6 +13,20 @@
       <webServer id="7901f626-0b80-49a1-a789-7e60ceaf855f" name="Statistics" url="http://stat.local">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="5faa6754-6708-44d0-905b-862b1d61a10a" name="FPTeam" url="http://fpteam.ru">
+        <fileTransfer host="fpteam.ru" port="22" rootFolder="/var/www/fpteam/ri" accessType="SFTP" password="dfcedfcbdfdcdfcbdfc3dfcedfcbdfdcdfc3" username="slowpoked">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="4c471a57-61ea-41fe-8d97-0127c5ef12fa" name="fpteam.ru" url="https://fpteam.ru">
+        <fileTransfer host="fpteam.ru" port="22" accessType="SFTP" password="dfcedfcbdfdcdfcbdfc3dfcedfcbdfdcdfc3" username="slowpoked">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
