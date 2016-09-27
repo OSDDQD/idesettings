@@ -31,6 +31,9 @@
       <webServer id="790f32ec-006c-46cb-9abb-58904b13b449" name="vBIM" url="http://im.local">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="c51ad8a3-2804-4a72-a793-faccaee92626" name="DocLocal" url="http://doc.local">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
