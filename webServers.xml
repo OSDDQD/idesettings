@@ -34,6 +34,9 @@
       <webServer id="c51ad8a3-2804-4a72-a793-faccaee92626" name="DocLocal" url="http://doc.local">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="a4ae9587-7ef8-4d22-a6c9-3ce3199a3ed1" name="Clicker" url="http://click.local">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
