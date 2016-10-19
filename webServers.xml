@@ -37,6 +37,9 @@
       <webServer id="a4ae9587-7ef8-4d22-a6c9-3ce3199a3ed1" name="Clicker" url="http://click.local">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="90b1114a-c94e-40a1-b532-acf55557e6fc" name="News" url="http://news.local">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
