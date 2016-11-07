@@ -43,6 +43,9 @@
       <webServer id="6d426321-e808-4951-8cc1-e2361554b57a" name="test.local" url="http://test.local">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="036ea6f9-f9fb-485e-888c-e7c7c5b316d6" name="AdServer" url="http://ad.local">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
