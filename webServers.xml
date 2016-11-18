@@ -46,6 +46,9 @@
       <webServer id="036ea6f9-f9fb-485e-888c-e7c7c5b316d6" name="AdServer" url="http://ad.local">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="b2190dd5-f3e8-4fe9-be3e-32dbda11517a" name="Kino Storage" url="http://kino.local">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
