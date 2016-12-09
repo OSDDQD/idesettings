@@ -49,6 +49,9 @@
       <webServer id="b2190dd5-f3e8-4fe9-be3e-32dbda11517a" name="Kino Storage" url="http://kino.local">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="40670630-1e7a-4dbe-ac47-8ec0f120a867" name="VideoConv" url="http://localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
