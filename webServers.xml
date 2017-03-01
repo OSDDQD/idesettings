@@ -40,6 +40,9 @@
       <webServer id="90b1114a-c94e-40a1-b532-acf55557e6fc" name="News" url="http://news.local">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="d5db1a01-0cfb-4e97-a1a1-a2859b014b52" name="kino.local" url="http://kino.local">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
