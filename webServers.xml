@@ -55,6 +55,9 @@
       <webServer id="6a30194f-ec3d-4ad5-91c6-5bb905205cdf" name="TgBot" url="http://localhost">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="2a7ee55b-d475-4e86-a86b-50c485fec56f" name="ERP" url="http://erp.local">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
