@@ -40,22 +40,7 @@
       <webServer id="90b1114a-c94e-40a1-b532-acf55557e6fc" name="News" url="http://news.local">
         <fileTransfer accessType="LOCAL" />
       </webServer>
-      <webServer id="6d426321-e808-4951-8cc1-e2361554b57a" name="test.local" url="http://test.local">
-        <fileTransfer accessType="LOCAL" />
-      </webServer>
-      <webServer id="036ea6f9-f9fb-485e-888c-e7c7c5b316d6" name="AdServer" url="http://ad.local">
-        <fileTransfer accessType="LOCAL" />
-      </webServer>
-      <webServer id="b2190dd5-f3e8-4fe9-be3e-32dbda11517a" name="Kino Storage" url="http://kino.local">
-        <fileTransfer accessType="LOCAL" />
-      </webServer>
-      <webServer id="40670630-1e7a-4dbe-ac47-8ec0f120a867" name="VideoConv" url="http://localhost">
-        <fileTransfer accessType="LOCAL" />
-      </webServer>
-      <webServer id="6a30194f-ec3d-4ad5-91c6-5bb905205cdf" name="TgBot" url="http://localhost">
-        <fileTransfer accessType="LOCAL" />
-      </webServer>
-      <webServer id="2a7ee55b-d475-4e86-a86b-50c485fec56f" name="ERP" url="http://erp.local">
+      <webServer id="d5db1a01-0cfb-4e97-a1a1-a2859b014b52" name="kino.local" url="http://kino.local">
         <fileTransfer accessType="LOCAL" />
       </webServer>
     </option>
