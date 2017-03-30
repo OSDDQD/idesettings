@@ -43,6 +43,9 @@
       <webServer id="d5db1a01-0cfb-4e97-a1a1-a2859b014b52" name="kino.local" url="http://kino.local">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="11fc5026-db93-4c65-b749-367e6e801ecd" name="Traffic" url="http://tt.local">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
