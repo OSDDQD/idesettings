@@ -46,7 +46,7 @@
       <webServer id="11fc5026-db93-4c65-b749-367e6e801ecd" name="Traffic" url="http://tt.local">
         <fileTransfer accessType="LOCAL" />
       </webServer>
-      <webServer id="a78c71ed-4bdb-4b1d-9646-2bc39ddd0f7e" name="Bee" url="http://bee.local">
+      <webServer id="dce3346d-114f-4d3c-89b7-9f6590b87492" name="Bee" url="http://bee.local">
         <fileTransfer accessType="LOCAL" />
       </webServer>
     </option>
