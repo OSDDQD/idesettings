@@ -21,7 +21,7 @@
       <option name="outputFromStdout" value="true" />
       <option name="passParentEnvs" value="true" />
       <option name="program" value="/usr/local/bin/lessc" />
-      <option name="scopeName" value="ResourceLess" />
+      <option name="scopeName" value="RSRC" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$FileDir$" />
       <envs />
