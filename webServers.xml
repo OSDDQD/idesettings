@@ -49,6 +49,9 @@
       <webServer id="dce3346d-114f-4d3c-89b7-9f6590b87492" name="Bee" url="http://bee.local">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="f15be308-44d8-4546-9205-3e9891ffb10e" name="Test Platform" url="http://test.local">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
