@@ -49,6 +49,9 @@
       <webServer id="dce3346d-114f-4d3c-89b7-9f6590b87492" name="Bee" url="http://bee.local">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="ac48134b-608c-451b-9ee5-40b51a93c5d0" name="Makro" url="http://makro.local">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
