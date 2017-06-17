@@ -55,6 +55,9 @@
       <webServer id="ed9fd3cb-0a67-40e3-80de-b61dd3682595" name="AdHunter" url="http://hunter.local">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="ffb09f88-fa11-4c19-9a08-8462d6ff3916" name="GM" url="http://gm.local">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
