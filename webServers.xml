@@ -55,7 +55,7 @@
       <webServer id="ed9fd3cb-0a67-40e3-80de-b61dd3682595" name="AdHunter" url="http://hunter.local">
         <fileTransfer accessType="LOCAL" />
       </webServer>
-      <webServer id="9b452c39-c2dd-4ef9-a7f3-491fb4f7ccb4" name="Makro" url="http://makro.local">
+      <webServer id="9b452c39-c2dd-4ef9-a7f3-491fb4f7ccb4" name="Makro (1)" url="http://makro.local">
         <fileTransfer accessType="LOCAL" />
       </webServer>
     </option>
