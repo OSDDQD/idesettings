@@ -58,6 +58,9 @@
       <webServer id="9b452c39-c2dd-4ef9-a7f3-491fb4f7ccb4" name="Makro (1)" url="http://makro.local">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="d00c657b-7fa2-4745-91b8-799a82a2e6d6" name="Mirbis" url="http://mirbis.local">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
