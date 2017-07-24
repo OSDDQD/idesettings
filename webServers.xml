@@ -61,7 +61,7 @@
       <webServer id="d00c657b-7fa2-4745-91b8-799a82a2e6d6" name="Mirbis" url="http://mirbis.local">
         <fileTransfer accessType="LOCAL" />
       </webServer>
-      <webServer id="efec19a8-ae87-4b97-b175-aad8f84864ea" name="Fest" url="http://fest.local">
+      <webServer id="5eaab6ad-01a2-45ce-9dfa-f73d1138e8d7" name="Fest" url="http://fest.local">
         <fileTransfer accessType="LOCAL" />
       </webServer>
     </option>
