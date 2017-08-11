@@ -64,6 +64,9 @@
       <webServer id="5eaab6ad-01a2-45ce-9dfa-f73d1138e8d7" name="Fest" url="http://fest.local">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="8be83b03-19f3-42e0-9a8d-b991f01a70ce" name="Pahta" url="http://pahta.local">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
