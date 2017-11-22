@@ -67,6 +67,9 @@
       <webServer id="8be83b03-19f3-42e0-9a8d-b991f01a70ce" name="Pahta" url="http://pahta.local">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="2fade113-b58d-4c52-9d40-8a706e3ade62" name="Market" url="http://market.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
