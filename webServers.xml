@@ -68,10 +68,13 @@
         <fileTransfer accessType="LOCAL" />
       </webServer>
       <webServer id="2fade113-b58d-4c52-9d40-8a706e3ade62" name="Market" url="http://market.local">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" />
       </webServer>
       <webServer id="a957618e-4b43-49b6-905c-060458c04ed1" name="Market WP" url="http://wp.local">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="8c973b89-5836-4697-a55a-b3073d03b397" name="CRM" url="http://crm.local">
+        <fileTransfer accessType="LOCAL" />
       </webServer>
     </option>
   </component>
