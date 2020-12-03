@@ -1,0 +1,24 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="77f6bdbe-5d98-4d18-a384-42ac0a7a994a" name="BARLOCAL" url="http://bar.local">
+        <fileTransfer port="0" mountedRoot="$USER_HOME$/Documents/Bar" accessType="MOUNT" />
+      </webServer>
+      <webServer id="abff6ce3-6a05-4993-93fc-d8fec1cc98f1" name="BARLOCAL (1)" url="http://bar.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="d206f563-4cf3-4794-a0fb-7aa553d98afe" name="SHOP" url="http://shop.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="52c32966-832b-4603-9173-b9e8f9882e54" name="STO" url="http://sto.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="ae06624e-e63f-4576-beb7-cc2322e845a1" name="MARKET" url="http://market.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="dc248612-2f64-4aa3-8e3e-e48f4ba98a57" name="RED" url="http://red.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
