@@ -19,6 +19,9 @@
       <webServer id="dc248612-2f64-4aa3-8e3e-e48f4ba98a57" name="RED" url="http://red.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="c4174af4-791b-48d3-b0c8-c298e0b79e18" name="Import " url="http://easy.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
